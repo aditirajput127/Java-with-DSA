@@ -65,7 +65,7 @@ System.out.println();
     // C C C 
     // D D 
     // E 
-
+    
     sc.close();
    } 
 }

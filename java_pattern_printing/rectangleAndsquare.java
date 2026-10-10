@@ -26,6 +26,18 @@ public class rectangleAndsquare{
         // 1 2 3 4 
         // 1 2 3 4 
         // 1 2 3 4
+        System.out.println();
+        for(int p = 1; p <= n ; p++){
+            for(int r = 1; r <= n; r++){
+            System.out.print(p+" ");
+        }
+        System.out.println();
+        }
+        // 1 1 1 1 
+        // 2 2 2 2 
+        // 3 3 3 3 
+        // 4 4 4 4
+
         System.out.println(); //if i give n=4 it would print a,b,c,d in 4 rows and column
         for(int i = 1; i <= n ; i++){
             for(int j = 1; j <= n; j++){
