@@ -16,7 +16,7 @@ public class flippedByA { //we are flipping the pattern by using a varaible
         // 1 2 3 
         // 1 2 
         // 1     
-        //    
+        //     
      sc.close();
   }  
 }
