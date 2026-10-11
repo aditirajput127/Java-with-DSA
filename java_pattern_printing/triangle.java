@@ -38,6 +38,18 @@ public class triangle {//this is to print an right-angled triangle.<
         // 3 3 3 
         // 4 4 4 4 
         // 5 5 5 5 5 
+        System.out.println();  //ODD TRIANGLE 
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+            System.out.print((2 * j - 1) + " ");
+        }
+            System.out.println();
+        }
+        // 1 
+        // 1 3 
+        // 1 3 5 
+        // 1 3 5 7 
+        // 1 3 5 7 9 
 
         System.out.println();
         for(int i = 1; i <= n ; i++){
