@@ -33,7 +33,7 @@ public class VerticalFlippedTriangle {
 
             System.out.println();
         }
-
+         
         sc.close();
     }
 }
