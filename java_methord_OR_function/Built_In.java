@@ -24,7 +24,7 @@ public class Built_In {
         int c = sc.nextInt();
         int d = sc.nextInt();
 
-        System.out.println("biggest no. btween all of them is :-" + Math.max(Math.max(a, b), Math.max(c, d)));
+        System.out.println("biggest no. between all of them is :-" + Math.max(Math.max(a, b), Math.max(c, d)));
         sc.close();
     }
 }
