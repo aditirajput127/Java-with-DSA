@@ -13,5 +13,13 @@ public class ArrayPrint {
         for (int i = 0; i < tarun.length; i++) {
             System.out.print(tarun[i] + " ");
         }
+        System.out.println();
+        //EXAMPLE:- If i want to print doulble of all the element of array 
+        int[] shiva = {24, 34, 44, 54, 64};
+
+        for (int i = 0; i < shiva.length; i++) {
+            System.out.print(2*shiva[i] + " ");
+
+        }
     }
 }
