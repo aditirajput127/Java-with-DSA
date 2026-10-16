@@ -4,7 +4,7 @@ public class printPattern {
           System.out.println("**");
             System.out.println("***");
               System.out.println("****\n");
-              //in this we're printing pattern and my intor.
+              //in this we're printing pattern without loop.
             String name = "Aditi Singh";
             int age = 22;
             String city = "Delhi";
